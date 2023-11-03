@@ -1,3 +1,4 @@
 # About me
 - My name is Nguyen Pham
-- Gergiasouthern
+- This is for CSCI1302
+- Georgia Southern University
